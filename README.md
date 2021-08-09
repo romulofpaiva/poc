@@ -1,4 +1,4 @@
 # poc
 Proof Of Concept
 
-Wellcome to my monorepo with proof of concepts. 
+Welcome to my monorepo with proof of concepts. 
